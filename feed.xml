@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Joy&#x27;s Reading List</title>
+    <description>Articles and long reads, read aloud, verbatim.</description>
+    <link>https://joy-deffinbaugh.github.io/reading-feed</link>
+    <language>en-us</language>
+    <itunes:author>Listen Later</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Your reading feed is live</title>
+      <guid isPermaLink="false">your-reading-feed-is-live-20260530195208</guid>
+      <pubDate>Sat, 30 May 2026 19:52:08 +0000</pubDate>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/your-reading-feed-is-live.mp3" type="audio/mpeg" length="159120"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
