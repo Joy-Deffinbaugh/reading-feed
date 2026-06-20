@@ -8,6 +8,51 @@
     <itunes:author>Listen Later</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>The End of Responsive Images</title>
+      <guid isPermaLink="false">the-end-of-responsive-images-20260620203536</guid>
+      <pubDate>Sat, 20 Jun 2026 20:35:36 +0000</pubDate>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/the-end-of-responsive-images.mp3" type="audio/mpeg" length="7475472"/>
+      <description>Original: https://piccalil.li/blog/the-end-of-responsive-images/</description>
+      <itunes:summary>Original: https://piccalil.li/blog/the-end-of-responsive-images/</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Details That Make Interfaces Feel Better</title>
+      <guid isPermaLink="false">details-that-make-interfaces-feel-better-20260620203048</guid>
+      <pubDate>Sat, 20 Jun 2026 20:30:48 +0000</pubDate>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/details-that-make-interfaces-feel-better.mp3" type="audio/mpeg" length="2450304"/>
+      <description>Original: https://jakub.kr/writing/details-that-make-interfaces-feel-better</description>
+      <itunes:summary>Original: https://jakub.kr/writing/details-that-make-interfaces-feel-better</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Product Design in 2026: The Beginning of a Fantastic Voyage</title>
+      <guid isPermaLink="false">product-design-in-2026-the-beginning-of-a-fantastic-voyage-20260620202836</guid>
+      <pubDate>Sat, 20 Jun 2026 20:28:36 +0000</pubDate>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/product-design-in-2026-the-beginning-of-a-fantastic-voyage.mp3" type="audio/mpeg" length="4105872"/>
+      <description>Original: https://uxdesign.cc/product-design-in-2026-the-beginning-of-a-fantastic-voyage-fb6866c907ac</description>
+      <itunes:summary>Original: https://uxdesign.cc/product-design-in-2026-the-beginning-of-a-fantastic-voyage-fb6866c907ac</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Data Products: The Essential Context for Enterprise AI</title>
+      <guid isPermaLink="false">data-products-the-essential-context-for-enterprise-ai-20260620202623</guid>
+      <pubDate>Sat, 20 Jun 2026 20:26:23 +0000</pubDate>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/data-products-the-essential-context-for-enterprise-ai.mp3" type="audio/mpeg" length="9822384"/>
+      <description>Original: https://moderndata101.substack.com/p/data-products-the-essential-context</description>
+      <itunes:summary>Original: https://moderndata101.substack.com/p/data-products-the-essential-context</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Why AI Projects Stall and How CIOs Can Respond</title>
+      <guid isPermaLink="false">why-ai-projects-stall-and-how-cios-can-respond-20260620202021</guid>
+      <pubDate>Sat, 20 Jun 2026 20:20:21 +0000</pubDate>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/why-ai-projects-stall-and-how-cios-can-respond.mp3" type="audio/mpeg" length="2679120"/>
+      <description>Original: https://www.cio.com/article/4160390/why-ai-projects-stall-and-how-cios-can-respond.html</description>
+      <itunes:summary>Original: https://www.cio.com/article/4160390/why-ai-projects-stall-and-how-cios-can-respond.html</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Agents Can&#x27;t Choose Between Structure and Flexibility</title>
       <guid isPermaLink="false">agents-can-t-choose-between-structure-and-flexibility-20260620201141</guid>
       <pubDate>Sat, 20 Jun 2026 20:11:41 +0000</pubDate>
