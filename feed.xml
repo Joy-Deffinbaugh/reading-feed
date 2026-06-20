@@ -8,6 +8,78 @@
     <itunes:author>Listen Later</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>When to use Claude Agent SDK: the Agent Harness explained</title>
+      <guid isPermaLink="false">when-to-use-claude-agent-sdk-the-agent-harness-explained-20260620193819</guid>
+      <pubDate>Sat, 20 Jun 2026 19:38:19 +0000</pubDate>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/when-to-use-claude-agent-sdk-the-agent-harness-explained.mp3" type="audio/mpeg" length="9650300"/>
+      <description>Original: https://www.youtube.com/watch?v=HIJVMVBM4KM  •  Edward Donner (14:30).</description>
+      <itunes:summary>Original: https://www.youtube.com/watch?v=HIJVMVBM4KM  •  Edward Donner (14:30).</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Complete AI Curriculum: your path to AI proficiency with LLMs and Agents</title>
+      <guid isPermaLink="false">the-complete-ai-curriculum-your-path-to-ai-proficiency-with--20260620193819</guid>
+      <pubDate>Sat, 20 Jun 2026 19:38:19 +0000</pubDate>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/the-complete-ai-curriculum-your-path-to-ai-proficiency-with-.mp3" type="audio/mpeg" length="2987156"/>
+      <description>Original: https://www.youtube.com/watch?v=wqqXAJYpn2s  •  Edward Donner (4:25).</description>
+      <itunes:summary>Original: https://www.youtube.com/watch?v=wqqXAJYpn2s  •  Edward Donner (4:25).</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Agentic RAG is powerful but it&#x27;s simpler than you might think. Here&#x27;s an explanation and demo.</title>
+      <guid isPermaLink="false">agentic-rag-is-powerful-but-it-s-simpler-than-you-might-thin-20260620193819</guid>
+      <pubDate>Sat, 20 Jun 2026 19:38:19 +0000</pubDate>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/agentic-rag-is-powerful-but-it-s-simpler-than-you-might-thin.mp3" type="audio/mpeg" length="13376516"/>
+      <description>Original: https://www.youtube.com/watch?v=K6wpRkJrcpM  •  Edward Donner (19:40).</description>
+      <itunes:summary>Original: https://www.youtube.com/watch?v=K6wpRkJrcpM  •  Edward Donner (19:40).</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Anthropic drops Claude Code with ultracode &amp; Dynamic Workflows and it delivers</title>
+      <guid isPermaLink="false">anthropic-drops-claude-code-with-ultracode-dynamic-workflows-20260620193819</guid>
+      <pubDate>Sat, 20 Jun 2026 19:38:19 +0000</pubDate>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/anthropic-drops-claude-code-with-ultracode-dynamic-workflows.mp3" type="audio/mpeg" length="9451484"/>
+      <description>Original: https://www.youtube.com/watch?v=srlhW4H-Gtg  •  Edward Donner (14:36).</description>
+      <itunes:summary>Original: https://www.youtube.com/watch?v=srlhW4H-Gtg  •  Edward Donner (14:36).</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Claude Code in a 1 Million Line Codebase: What Works, What Doesn&#x27;t</title>
+      <guid isPermaLink="false">claude-code-in-a-1-million-line-codebase-what-works-what-doe-20260620193819</guid>
+      <pubDate>Sat, 20 Jun 2026 19:38:19 +0000</pubDate>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/claude-code-in-a-1-million-line-codebase-what-works-what-doe.mp3" type="audio/mpeg" length="7308428"/>
+      <description>Original: https://www.youtube.com/watch?v=k5JxbbwEVGo  •  Edward Donner (11:47).</description>
+      <itunes:summary>Original: https://www.youtube.com/watch?v=k5JxbbwEVGo  •  Edward Donner (11:47).</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Making Claude Code Free and Fast: Hooking up to Qwen &amp; Nvidia Nemotron via Claude Code Router</title>
+      <guid isPermaLink="false">making-claude-code-free-and-fast-hooking-up-to-qwen-nvidia-n-20260620193819</guid>
+      <pubDate>Sat, 20 Jun 2026 19:38:19 +0000</pubDate>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/making-claude-code-free-and-fast-hooking-up-to-qwen-nvidia-n.mp3" type="audio/mpeg" length="9869492"/>
+      <description>Original: https://www.youtube.com/watch?v=FYXBYq3Y9YE  •  Edward Donner (15:05).</description>
+      <itunes:summary>Original: https://www.youtube.com/watch?v=FYXBYq3Y9YE  •  Edward Donner (15:05).</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Claude Code pro features in action to build Agentic RAG with MCP</title>
+      <guid isPermaLink="false">claude-code-pro-features-in-action-to-build-agentic-rag-with-20260620193819</guid>
+      <pubDate>Sat, 20 Jun 2026 19:38:19 +0000</pubDate>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/claude-code-pro-features-in-action-to-build-agentic-rag-with.mp3" type="audio/mpeg" length="7042292"/>
+      <description>Original: https://www.youtube.com/watch?v=eMd_0gCy5p4  •  Edward Donner (10:28).</description>
+      <itunes:summary>Original: https://www.youtube.com/watch?v=eMd_0gCy5p4  •  Edward Donner (10:28).</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Claude Code advanced features: /review and the new /ultrareview</title>
+      <guid isPermaLink="false">claude-code-advanced-features-review-and-the-new-ultrareview-20260620193819</guid>
+      <pubDate>Sat, 20 Jun 2026 19:38:19 +0000</pubDate>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/claude-code-advanced-features-review-and-the-new-ultrareview.mp3" type="audio/mpeg" length="7469084"/>
+      <description>Original: https://www.youtube.com/watch?v=vzbkBc3PyUY  •  Edward Donner (11:27).</description>
+      <itunes:summary>Original: https://www.youtube.com/watch?v=vzbkBc3PyUY  •  Edward Donner (11:27).</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Agent Skills</title>
       <guid isPermaLink="false">agent-skills-20260620193401</guid>
       <pubDate>Sat, 20 Jun 2026 19:34:01 +0000</pubDate>
