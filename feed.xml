@@ -8,6 +8,15 @@
     <itunes:author>Listen Later</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Agents Can&#x27;t Choose Between Structure and Flexibility</title>
+      <guid isPermaLink="false">agents-can-t-choose-between-structure-and-flexibility-20260620201141</guid>
+      <pubDate>Sat, 20 Jun 2026 20:11:41 +0000</pubDate>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/agents-can-t-choose-between-structure-and-flexibility.mp3" type="audio/mpeg" length="3618144"/>
+      <description>Original: https://frontierai.substack.com/p/agents-cant-choose-between-structure</description>
+      <itunes:summary>Original: https://frontierai.substack.com/p/agents-cant-choose-between-structure</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>When to use Claude Agent SDK: the Agent Harness explained</title>
       <guid isPermaLink="false">when-to-use-claude-agent-sdk-the-agent-harness-explained-20260620193819</guid>
       <pubDate>Sat, 20 Jun 2026 19:38:19 +0000</pubDate>
