@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>Joy&#x27;s Reading List</title>
+    <title>Joy's Reading List</title>
     <description>Articles and long reads, read aloud, verbatim.</description>
     <link>https://joy-deffinbaugh.github.io/reading-feed</link>
     <language>en-us</language>
@@ -29,7 +29,7 @@
       <title>A Year Coding on My VPS with Claude Code</title>
       <guid isPermaLink="false">a-year-coding-on-my-vps-with-claude-code-20260707160553</guid>
       <pubDate>Tue, 07 Jul 2026 16:05:53 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/a-year-coding-on-my-vps-with-claude-code.mp3" type="audio/mpeg" length="809568"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/a-year-coding-on-my-vps-with-claude-code.mp3" type="audio/mpeg" length="809568" />
       <description>Original: https://x.com/levelsio/status/2071162399864889705</description>
       <itunes:summary>Original: https://x.com/levelsio/status/2071162399864889705</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
@@ -38,7 +38,7 @@
       <title>Building beautiful UI using AI (My design workflow)</title>
       <guid isPermaLink="false">building-beautiful-ui-using-ai-my-design-workflow-20260707160440</guid>
       <pubDate>Tue, 07 Jul 2026 16:04:40 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/building-beautiful-ui-using-ai-my-design-workflow.mp3" type="audio/mpeg" length="13765268"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/building-beautiful-ui-using-ai-my-design-workflow.mp3" type="audio/mpeg" length="13765268" />
       <description>Original: https://www.youtube.com/watch?v=vpU9lZY69O4  •  Ras Mic (22:09).</description>
       <itunes:summary>Original: https://www.youtube.com/watch?v=vpU9lZY69O4  •  Ras Mic (22:09).</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
@@ -47,16 +47,16 @@
       <title>Braintrust CEO: Evals are the new PRD for AI products</title>
       <guid isPermaLink="false">braintrust-ceo-evals-are-the-new-prd-for-ai-products-20260707160440</guid>
       <pubDate>Tue, 07 Jul 2026 16:04:40 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/braintrust-ceo-evals-are-the-new-prd-for-ai-products.mp3" type="audio/mpeg" length="25443764"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/braintrust-ceo-evals-are-the-new-prd-for-ai-products.mp3" type="audio/mpeg" length="25443764" />
       <description>Original: https://youtu.be/QE_1hRLsehM  •  How I AI (40:12).</description>
       <itunes:summary>Original: https://youtu.be/QE_1hRLsehM  •  How I AI (40:12).</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>L8 Principal&#x27;s Agentic Engineering Workflow</title>
+      <title>L8 Principal's Agentic Engineering Workflow</title>
       <guid isPermaLink="false">l8-principal-s-agentic-engineering-workflow-20260707160440</guid>
       <pubDate>Tue, 07 Jul 2026 16:04:40 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/l8-principal-s-agentic-engineering-workflow.mp3" type="audio/mpeg" length="29926340"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/l8-principal-s-agentic-engineering-workflow.mp3" type="audio/mpeg" length="29926340" />
       <description>Original: https://youtu.be/iQyg-KypKAA  •  Kun Chen (45:46).</description>
       <itunes:summary>Original: https://youtu.be/iQyg-KypKAA  •  Kun Chen (45:46).</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
@@ -65,7 +65,7 @@
       <title>Complete Deep Agents Course With Langchain In 3 Hours</title>
       <guid isPermaLink="false">complete-deep-agents-course-with-langchain-in-3-hours-20260707160440</guid>
       <pubDate>Tue, 07 Jul 2026 16:04:40 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/complete-deep-agents-course-with-langchain-in-3-hours.mp3" type="audio/mpeg" length="95304332"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/complete-deep-agents-course-with-langchain-in-3-hours.mp3" type="audio/mpeg" length="95304332" />
       <description>Original: https://youtu.be/J8DzuMmSDEU  •  Krish Naik (2:42:16).</description>
       <itunes:summary>Original: https://youtu.be/J8DzuMmSDEU  •  Krish Naik (2:42:16).</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
@@ -74,7 +74,7 @@
       <title>Anthropic Just Changed How We Work Forever.. (Claude Tag)</title>
       <guid isPermaLink="false">anthropic-just-changed-how-we-work-forever-claude-tag-20260707160440</guid>
       <pubDate>Tue, 07 Jul 2026 16:04:40 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/anthropic-just-changed-how-we-work-forever-claude-tag.mp3" type="audio/mpeg" length="9056372"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/anthropic-just-changed-how-we-work-forever-claude-tag.mp3" type="audio/mpeg" length="9056372" />
       <description>Original: https://youtu.be/WsD4NkD_swE  •  Brock Mesarich | AI for Non Techies (15:30).</description>
       <itunes:summary>Original: https://youtu.be/WsD4NkD_swE  •  Brock Mesarich | AI for Non Techies (15:30).</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
@@ -83,7 +83,7 @@
       <title>WTF Is a Loop? Peter Steinberger vs. Boris Cherny</title>
       <guid isPermaLink="false">wtf-is-a-loop-peter-steinberger-vs-boris-cherny-20260707160440</guid>
       <pubDate>Tue, 07 Jul 2026 16:04:40 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/wtf-is-a-loop-peter-steinberger-vs-boris-cherny.mp3" type="audio/mpeg" length="3203424"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/wtf-is-a-loop-peter-steinberger-vs-boris-cherny.mp3" type="audio/mpeg" length="3203424" />
       <description>Original: https://www.linkedin.com/pulse/wtf-loop-peter-steinberger-vs-boris-cherny-matt-van-horn-cpslc/</description>
       <itunes:summary>Original: https://www.linkedin.com/pulse/wtf-loop-peter-steinberger-vs-boris-cherny-matt-van-horn-cpslc/</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
@@ -92,7 +92,7 @@
       <title>Building a Skill Optimization Loop</title>
       <guid isPermaLink="false">building-a-skill-optimization-loop-20260707160052</guid>
       <pubDate>Tue, 07 Jul 2026 16:00:52 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/building-a-skill-optimization-loop.mp3" type="audio/mpeg" length="1429920"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/building-a-skill-optimization-loop.mp3" type="audio/mpeg" length="1429920" />
       <description>Original: https://www.linkedin.com/pulse/building-skill-optimization-loop-zach-lloyd-pvibc/</description>
       <itunes:summary>Original: https://www.linkedin.com/pulse/building-skill-optimization-loop-zach-lloyd-pvibc/</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
@@ -101,7 +101,7 @@
       <title>AI-generated UI is inaccessible by default</title>
       <guid isPermaLink="false">ai-generated-ui-is-inaccessible-by-default-20260707155905</guid>
       <pubDate>Tue, 07 Jul 2026 15:59:05 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/ai-generated-ui-is-inaccessible-by-default.mp3" type="audio/mpeg" length="7785360"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/ai-generated-ui-is-inaccessible-by-default.mp3" type="audio/mpeg" length="7785360" />
       <description>Original: https://master.dev/blog/ai-generated-ui-is-inaccessible-by-default/</description>
       <itunes:summary>Original: https://master.dev/blog/ai-generated-ui-is-inaccessible-by-default/</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
@@ -110,7 +110,7 @@
       <title>Writing Loops, Not Prompts, Explained</title>
       <guid isPermaLink="false">writing-loops-not-prompts-explained-20260707154751</guid>
       <pubDate>Tue, 07 Jul 2026 15:47:51 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/writing-loops-not-prompts-explained.mp3" type="audio/mpeg" length="5637456"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/writing-loops-not-prompts-explained.mp3" type="audio/mpeg" length="5637456" />
       <description>Original: https://rico.codes/loops-not-prompts</description>
       <itunes:summary>Original: https://rico.codes/loops-not-prompts</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
@@ -119,7 +119,7 @@
       <title>Multi-agent coding without worktree chaos</title>
       <guid isPermaLink="false">multi-agent-coding-without-worktree-chaos-20260707153818</guid>
       <pubDate>Tue, 07 Jul 2026 15:38:18 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/multi-agent-coding-without-worktree-chaos.mp3" type="audio/mpeg" length="3530880"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/multi-agent-coding-without-worktree-chaos.mp3" type="audio/mpeg" length="3530880" />
       <description>Original: https://davidwells.io/blog/multi-agent-coding-without-worktree-chaos</description>
       <itunes:summary>Original: https://davidwells.io/blog/multi-agent-coding-without-worktree-chaos</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
@@ -128,7 +128,7 @@
       <title>Writing my first evals</title>
       <guid isPermaLink="false">writing-my-first-evals-20260707153452</guid>
       <pubDate>Tue, 07 Jul 2026 15:34:52 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/writing-my-first-evals.mp3" type="audio/mpeg" length="7701120"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/writing-my-first-evals.mp3" type="audio/mpeg" length="7701120" />
       <description>Original: https://workos.com/blog/writing-my-first-evals</description>
       <itunes:summary>Original: https://workos.com/blog/writing-my-first-evals</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
@@ -137,7 +137,7 @@
       <title>The State of the AI Economy</title>
       <guid isPermaLink="false">the-state-of-the-ai-economy-20260707152301</guid>
       <pubDate>Tue, 07 Jul 2026 15:23:01 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/the-state-of-the-ai-economy.mp3" type="audio/mpeg" length="2809584"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/the-state-of-the-ai-economy.mp3" type="audio/mpeg" length="2809584" />
       <description>Original: https://www.exponentialview.co/p/the-state-of-the-ai-economy</description>
       <itunes:summary>Original: https://www.exponentialview.co/p/the-state-of-the-ai-economy</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
@@ -146,7 +146,7 @@
       <title>Scaling Laws, Carefully</title>
       <guid isPermaLink="false">scaling-laws-carefully-20260707151818</guid>
       <pubDate>Tue, 07 Jul 2026 15:18:18 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/scaling-laws-carefully.mp3" type="audio/mpeg" length="10425888"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/scaling-laws-carefully.mp3" type="audio/mpeg" length="10425888" />
       <description>Original: https://lilianweng.github.io/posts/2026-06-24-scaling-laws/</description>
       <itunes:summary>Original: https://lilianweng.github.io/posts/2026-06-24-scaling-laws/</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
@@ -155,7 +155,7 @@
       <title>AI Search in 2026: What Wins, and Whether Timberdoodle Needs Semrush</title>
       <guid isPermaLink="false">ai-search-in-2026-what-wins-and-whether-timberdoodle-needs-s-20260620210808</guid>
       <pubDate>Sat, 20 Jun 2026 21:08:08 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/ai-search-in-2026-what-wins-and-whether-timberdoodle-needs-s.mp3" type="audio/mpeg" length="3031200"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/ai-search-in-2026-what-wins-and-whether-timberdoodle-needs-s.mp3" type="audio/mpeg" length="3031200" />
       <description>Original: Original Timberdoodle research brief — Claude deep-research synthesis, June 2026. Key sources named at the end; full links in the companion notes.</description>
       <itunes:summary>Original: Original Timberdoodle research brief — Claude deep-research synthesis, June 2026. Key sources named at the end; full links in the companion notes.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
@@ -164,16 +164,16 @@
       <title>The SEO Playbook: A NEW System for 2026 (SEO, GEO)</title>
       <guid isPermaLink="false">the-seo-playbook-a-new-system-for-2026-seo-geo-20260620210006</guid>
       <pubDate>Sat, 20 Jun 2026 21:00:06 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/the-seo-playbook-a-new-system-for-2026-seo-geo.mp3" type="audio/mpeg" length="11329556"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/the-seo-playbook-a-new-system-for-2026-seo-geo.mp3" type="audio/mpeg" length="11329556" />
       <description>Original: https://www.youtube.com/watch?v=oxkykvTcN_Y  •  Semrush (14:09).</description>
       <itunes:summary>Original: https://www.youtube.com/watch?v=oxkykvTcN_Y  •  Semrush (14:09).</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Google&#x27;s Knowledge Graph: What It Is and How to Optimize for It</title>
+      <title>Google's Knowledge Graph: What It Is and How to Optimize for It</title>
       <guid isPermaLink="false">google-s-knowledge-graph-what-it-is-and-how-to-optimize-for--20260620210006</guid>
       <pubDate>Sat, 20 Jun 2026 21:00:06 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/google-s-knowledge-graph-what-it-is-and-how-to-optimize-for-.mp3" type="audio/mpeg" length="4004352"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/google-s-knowledge-graph-what-it-is-and-how-to-optimize-for-.mp3" type="audio/mpeg" length="4004352" />
       <description>Original: https://www.semrush.com/blog/knowledge-graph/</description>
       <itunes:summary>Original: https://www.semrush.com/blog/knowledge-graph/</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
@@ -182,7 +182,7 @@
       <title>How to Build Website Authority: Five Practical Strategies</title>
       <guid isPermaLink="false">how-to-build-website-authority-five-practical-strategies-20260620205757</guid>
       <pubDate>Sat, 20 Jun 2026 20:57:57 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/how-to-build-website-authority-five-practical-strategies.mp3" type="audio/mpeg" length="9564192"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/how-to-build-website-authority-five-practical-strategies.mp3" type="audio/mpeg" length="9564192" />
       <description>Original: https://www.semrush.com/blog/how-to-build-website-authority/</description>
       <itunes:summary>Original: https://www.semrush.com/blog/how-to-build-website-authority/</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
@@ -191,7 +191,7 @@
       <title>How to Do Keyword Research: Six Methods and a Prioritization Framework</title>
       <guid isPermaLink="false">how-to-do-keyword-research-six-methods-and-a-prioritization--20260620204619</guid>
       <pubDate>Sat, 20 Jun 2026 20:46:19 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/how-to-do-keyword-research-six-methods-and-a-prioritization-.mp3" type="audio/mpeg" length="7195104"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/how-to-do-keyword-research-six-methods-and-a-prioritization-.mp3" type="audio/mpeg" length="7195104" />
       <description>Original: https://www.semrush.com/blog/keyword-research/</description>
       <itunes:summary>Original: https://www.semrush.com/blog/keyword-research/</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
@@ -200,7 +200,7 @@
       <title>The End of Responsive Images</title>
       <guid isPermaLink="false">the-end-of-responsive-images-20260620203536</guid>
       <pubDate>Sat, 20 Jun 2026 20:35:36 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/the-end-of-responsive-images.mp3" type="audio/mpeg" length="7475472"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/the-end-of-responsive-images.mp3" type="audio/mpeg" length="7475472" />
       <description>Original: https://piccalil.li/blog/the-end-of-responsive-images/</description>
       <itunes:summary>Original: https://piccalil.li/blog/the-end-of-responsive-images/</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
@@ -209,7 +209,7 @@
       <title>Details That Make Interfaces Feel Better</title>
       <guid isPermaLink="false">details-that-make-interfaces-feel-better-20260620203048</guid>
       <pubDate>Sat, 20 Jun 2026 20:30:48 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/details-that-make-interfaces-feel-better.mp3" type="audio/mpeg" length="2450304"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/details-that-make-interfaces-feel-better.mp3" type="audio/mpeg" length="2450304" />
       <description>Original: https://jakub.kr/writing/details-that-make-interfaces-feel-better</description>
       <itunes:summary>Original: https://jakub.kr/writing/details-that-make-interfaces-feel-better</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
@@ -218,7 +218,7 @@
       <title>Product Design in 2026: The Beginning of a Fantastic Voyage</title>
       <guid isPermaLink="false">product-design-in-2026-the-beginning-of-a-fantastic-voyage-20260620202836</guid>
       <pubDate>Sat, 20 Jun 2026 20:28:36 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/product-design-in-2026-the-beginning-of-a-fantastic-voyage.mp3" type="audio/mpeg" length="4105872"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/product-design-in-2026-the-beginning-of-a-fantastic-voyage.mp3" type="audio/mpeg" length="4105872" />
       <description>Original: https://uxdesign.cc/product-design-in-2026-the-beginning-of-a-fantastic-voyage-fb6866c907ac</description>
       <itunes:summary>Original: https://uxdesign.cc/product-design-in-2026-the-beginning-of-a-fantastic-voyage-fb6866c907ac</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
@@ -227,7 +227,7 @@
       <title>Data Products: The Essential Context for Enterprise AI</title>
       <guid isPermaLink="false">data-products-the-essential-context-for-enterprise-ai-20260620202623</guid>
       <pubDate>Sat, 20 Jun 2026 20:26:23 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/data-products-the-essential-context-for-enterprise-ai.mp3" type="audio/mpeg" length="9822384"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/data-products-the-essential-context-for-enterprise-ai.mp3" type="audio/mpeg" length="9822384" />
       <description>Original: https://moderndata101.substack.com/p/data-products-the-essential-context</description>
       <itunes:summary>Original: https://moderndata101.substack.com/p/data-products-the-essential-context</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
@@ -236,16 +236,16 @@
       <title>Why AI Projects Stall and How CIOs Can Respond</title>
       <guid isPermaLink="false">why-ai-projects-stall-and-how-cios-can-respond-20260620202021</guid>
       <pubDate>Sat, 20 Jun 2026 20:20:21 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/why-ai-projects-stall-and-how-cios-can-respond.mp3" type="audio/mpeg" length="2679120"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/why-ai-projects-stall-and-how-cios-can-respond.mp3" type="audio/mpeg" length="2679120" />
       <description>Original: https://www.cio.com/article/4160390/why-ai-projects-stall-and-how-cios-can-respond.html</description>
       <itunes:summary>Original: https://www.cio.com/article/4160390/why-ai-projects-stall-and-how-cios-can-respond.html</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Agents Can&#x27;t Choose Between Structure and Flexibility</title>
+      <title>Agents Can't Choose Between Structure and Flexibility</title>
       <guid isPermaLink="false">agents-can-t-choose-between-structure-and-flexibility-20260620201141</guid>
       <pubDate>Sat, 20 Jun 2026 20:11:41 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/agents-can-t-choose-between-structure-and-flexibility.mp3" type="audio/mpeg" length="3618144"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/agents-can-t-choose-between-structure-and-flexibility.mp3" type="audio/mpeg" length="3618144" />
       <description>Original: https://frontierai.substack.com/p/agents-cant-choose-between-structure</description>
       <itunes:summary>Original: https://frontierai.substack.com/p/agents-cant-choose-between-structure</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
@@ -254,7 +254,7 @@
       <title>When to use Claude Agent SDK: the Agent Harness explained</title>
       <guid isPermaLink="false">when-to-use-claude-agent-sdk-the-agent-harness-explained-20260620193819</guid>
       <pubDate>Sat, 20 Jun 2026 19:38:19 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/when-to-use-claude-agent-sdk-the-agent-harness-explained.mp3" type="audio/mpeg" length="9650300"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/when-to-use-claude-agent-sdk-the-agent-harness-explained.mp3" type="audio/mpeg" length="9650300" />
       <description>Original: https://www.youtube.com/watch?v=HIJVMVBM4KM  •  Edward Donner (14:30).</description>
       <itunes:summary>Original: https://www.youtube.com/watch?v=HIJVMVBM4KM  •  Edward Donner (14:30).</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
@@ -263,16 +263,16 @@
       <title>The Complete AI Curriculum: your path to AI proficiency with LLMs and Agents</title>
       <guid isPermaLink="false">the-complete-ai-curriculum-your-path-to-ai-proficiency-with--20260620193819</guid>
       <pubDate>Sat, 20 Jun 2026 19:38:19 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/the-complete-ai-curriculum-your-path-to-ai-proficiency-with-.mp3" type="audio/mpeg" length="2987156"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/the-complete-ai-curriculum-your-path-to-ai-proficiency-with-.mp3" type="audio/mpeg" length="2987156" />
       <description>Original: https://www.youtube.com/watch?v=wqqXAJYpn2s  •  Edward Donner (4:25).</description>
       <itunes:summary>Original: https://www.youtube.com/watch?v=wqqXAJYpn2s  •  Edward Donner (4:25).</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Agentic RAG is powerful but it&#x27;s simpler than you might think. Here&#x27;s an explanation and demo.</title>
+      <title>Agentic RAG is powerful but it's simpler than you might think. Here's an explanation and demo.</title>
       <guid isPermaLink="false">agentic-rag-is-powerful-but-it-s-simpler-than-you-might-thin-20260620193819</guid>
       <pubDate>Sat, 20 Jun 2026 19:38:19 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/agentic-rag-is-powerful-but-it-s-simpler-than-you-might-thin.mp3" type="audio/mpeg" length="13376516"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/agentic-rag-is-powerful-but-it-s-simpler-than-you-might-thin.mp3" type="audio/mpeg" length="13376516" />
       <description>Original: https://www.youtube.com/watch?v=K6wpRkJrcpM  •  Edward Donner (19:40).</description>
       <itunes:summary>Original: https://www.youtube.com/watch?v=K6wpRkJrcpM  •  Edward Donner (19:40).</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
@@ -281,16 +281,16 @@
       <title>Anthropic drops Claude Code with ultracode &amp; Dynamic Workflows and it delivers</title>
       <guid isPermaLink="false">anthropic-drops-claude-code-with-ultracode-dynamic-workflows-20260620193819</guid>
       <pubDate>Sat, 20 Jun 2026 19:38:19 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/anthropic-drops-claude-code-with-ultracode-dynamic-workflows.mp3" type="audio/mpeg" length="9451484"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/anthropic-drops-claude-code-with-ultracode-dynamic-workflows.mp3" type="audio/mpeg" length="9451484" />
       <description>Original: https://www.youtube.com/watch?v=srlhW4H-Gtg  •  Edward Donner (14:36).</description>
       <itunes:summary>Original: https://www.youtube.com/watch?v=srlhW4H-Gtg  •  Edward Donner (14:36).</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Claude Code in a 1 Million Line Codebase: What Works, What Doesn&#x27;t</title>
+      <title>Claude Code in a 1 Million Line Codebase: What Works, What Doesn't</title>
       <guid isPermaLink="false">claude-code-in-a-1-million-line-codebase-what-works-what-doe-20260620193819</guid>
       <pubDate>Sat, 20 Jun 2026 19:38:19 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/claude-code-in-a-1-million-line-codebase-what-works-what-doe.mp3" type="audio/mpeg" length="7308428"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/claude-code-in-a-1-million-line-codebase-what-works-what-doe.mp3" type="audio/mpeg" length="7308428" />
       <description>Original: https://www.youtube.com/watch?v=k5JxbbwEVGo  •  Edward Donner (11:47).</description>
       <itunes:summary>Original: https://www.youtube.com/watch?v=k5JxbbwEVGo  •  Edward Donner (11:47).</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
@@ -299,7 +299,7 @@
       <title>Making Claude Code Free and Fast: Hooking up to Qwen &amp; Nvidia Nemotron via Claude Code Router</title>
       <guid isPermaLink="false">making-claude-code-free-and-fast-hooking-up-to-qwen-nvidia-n-20260620193819</guid>
       <pubDate>Sat, 20 Jun 2026 19:38:19 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/making-claude-code-free-and-fast-hooking-up-to-qwen-nvidia-n.mp3" type="audio/mpeg" length="9869492"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/making-claude-code-free-and-fast-hooking-up-to-qwen-nvidia-n.mp3" type="audio/mpeg" length="9869492" />
       <description>Original: https://www.youtube.com/watch?v=FYXBYq3Y9YE  •  Edward Donner (15:05).</description>
       <itunes:summary>Original: https://www.youtube.com/watch?v=FYXBYq3Y9YE  •  Edward Donner (15:05).</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
@@ -308,7 +308,7 @@
       <title>Claude Code pro features in action to build Agentic RAG with MCP</title>
       <guid isPermaLink="false">claude-code-pro-features-in-action-to-build-agentic-rag-with-20260620193819</guid>
       <pubDate>Sat, 20 Jun 2026 19:38:19 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/claude-code-pro-features-in-action-to-build-agentic-rag-with.mp3" type="audio/mpeg" length="7042292"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/claude-code-pro-features-in-action-to-build-agentic-rag-with.mp3" type="audio/mpeg" length="7042292" />
       <description>Original: https://www.youtube.com/watch?v=eMd_0gCy5p4  •  Edward Donner (10:28).</description>
       <itunes:summary>Original: https://www.youtube.com/watch?v=eMd_0gCy5p4  •  Edward Donner (10:28).</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
@@ -317,7 +317,7 @@
       <title>Claude Code advanced features: /review and the new /ultrareview</title>
       <guid isPermaLink="false">claude-code-advanced-features-review-and-the-new-ultrareview-20260620193819</guid>
       <pubDate>Sat, 20 Jun 2026 19:38:19 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/claude-code-advanced-features-review-and-the-new-ultrareview.mp3" type="audio/mpeg" length="7469084"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/claude-code-advanced-features-review-and-the-new-ultrareview.mp3" type="audio/mpeg" length="7469084" />
       <description>Original: https://www.youtube.com/watch?v=vzbkBc3PyUY  •  Edward Donner (11:27).</description>
       <itunes:summary>Original: https://www.youtube.com/watch?v=vzbkBc3PyUY  •  Edward Donner (11:27).</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
@@ -326,7 +326,7 @@
       <title>Agent Skills</title>
       <guid isPermaLink="false">agent-skills-20260620193401</guid>
       <pubDate>Sat, 20 Jun 2026 19:34:01 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/agent-skills.mp3" type="audio/mpeg" length="6192432"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/agent-skills.mp3" type="audio/mpeg" length="6192432" />
       <description>Original: https://addyosmani.com/blog/agent-skills/</description>
       <itunes:summary>Original: https://addyosmani.com/blog/agent-skills/</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
@@ -335,7 +335,7 @@
       <title>How to Build an AI Second Brain With Claude Code and Obsidian</title>
       <guid isPermaLink="false">how-to-build-an-ai-second-brain-with-claude-code-and-obsidia-20260620180236</guid>
       <pubDate>Sat, 20 Jun 2026 18:02:36 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/how-to-build-an-ai-second-brain-with-claude-code-and-obsidia.mp3" type="audio/mpeg" length="7390512"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/how-to-build-an-ai-second-brain-with-claude-code-and-obsidia.mp3" type="audio/mpeg" length="7390512" />
       <description>Original: https://www.mindstudio.ai/blog/build-ai-second-brain-claude-code-obsidian</description>
       <itunes:summary>Original: https://www.mindstudio.ai/blog/build-ai-second-brain-claude-code-obsidian</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
@@ -344,7 +344,7 @@
       <title>TBM 405: Hope, Context, and Control</title>
       <guid isPermaLink="false">tbm-405-hope-context-and-control-20260620174825</guid>
       <pubDate>Sat, 20 Jun 2026 17:48:25 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/tbm-405-hope-context-and-control.mp3" type="audio/mpeg" length="4106880"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/tbm-405-hope-context-and-control.mp3" type="audio/mpeg" length="4106880" />
       <description>Original: https://cutlefish.substack.com/p/tbm-405-hope-context-and-control</description>
       <itunes:summary>Original: https://cutlefish.substack.com/p/tbm-405-hope-context-and-control</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
@@ -353,7 +353,7 @@
       <title>How to Use Profit First to Be More Profitable (for Ecommerce Sellers)</title>
       <guid isPermaLink="false">how-to-use-profit-first-to-be-more-profitable-for-ecommerce--20260620174135</guid>
       <pubDate>Sat, 20 Jun 2026 17:41:35 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/how-to-use-profit-first-to-be-more-profitable-for-ecommerce-.mp3" type="audio/mpeg" length="4393436"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/how-to-use-profit-first-to-be-more-profitable-for-ecommerce-.mp3" type="audio/mpeg" length="4393436" />
       <description>Original: https://www.youtube.com/watch?v=uhC2EgoU5mY  •  LedgerGurus explainer (6:25) on applying the Profit First method to an ecommerce business.</description>
       <itunes:summary>Original: https://www.youtube.com/watch?v=uhC2EgoU5mY  •  LedgerGurus explainer (6:25) on applying the Profit First method to an ecommerce business.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
@@ -362,16 +362,16 @@
       <title>The Hidden Danger of Shipping Fast</title>
       <guid isPermaLink="false">the-hidden-danger-of-shipping-fast-20260620174117</guid>
       <pubDate>Sat, 20 Jun 2026 17:41:17 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/the-hidden-danger-of-shipping-fast.mp3" type="audio/mpeg" length="4264704"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/the-hidden-danger-of-shipping-fast.mp3" type="audio/mpeg" length="4264704" />
       <description>Original: https://newsletter.posthog.com/p/the-hidden-danger-of-shipping-fast</description>
       <itunes:summary>Original: https://newsletter.posthog.com/p/the-hidden-danger-of-shipping-fast</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>The Power User&#x27;s Guide to Codex</title>
+      <title>The Power User's Guide to Codex</title>
       <guid isPermaLink="false">the-power-user-s-guide-to-codex-20260620173738</guid>
       <pubDate>Sat, 20 Jun 2026 17:37:38 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/the-power-user-s-guide-to-codex.mp3" type="audio/mpeg" length="2017728"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/the-power-user-s-guide-to-codex.mp3" type="audio/mpeg" length="2017728" />
       <description>Original: https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-the-power-users</description>
       <itunes:summary>Original: https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-the-power-users</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
@@ -380,7 +380,7 @@
       <title>How Databox Built a Content Brand to $7.6M ARR</title>
       <guid isPermaLink="false">how-databox-built-a-content-brand-to-7-6m-arr-20260620173627</guid>
       <pubDate>Sat, 20 Jun 2026 17:36:27 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/how-databox-built-a-content-brand-to-7-6m-arr.mp3" type="audio/mpeg" length="3672144"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/how-databox-built-a-content-brand-to-7-6m-arr.mp3" type="audio/mpeg" length="3672144" />
       <description>Original: https://growthsprints.co/databox/</description>
       <itunes:summary>Original: https://growthsprints.co/databox/</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
@@ -389,7 +389,7 @@
       <title>Regain Your Time With ChatGPT: Training AI to Assist You</title>
       <guid isPermaLink="false">regain-your-time-with-chatgpt-training-ai-to-assist-you-20260620173345</guid>
       <pubDate>Sat, 20 Jun 2026 17:33:45 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/regain-your-time-with-chatgpt-training-ai-to-assist-you.mp3" type="audio/mpeg" length="7769664"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/regain-your-time-with-chatgpt-training-ai-to-assist-you.mp3" type="audio/mpeg" length="7769664" />
       <description>Original: https://www.socialmediaexaminer.com/regain-your-time-with-chatgpt-training-ai-to-assist-you/</description>
       <itunes:summary>Original: https://www.socialmediaexaminer.com/regain-your-time-with-chatgpt-training-ai-to-assist-you/</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
@@ -398,7 +398,7 @@
       <title>Content at Scale: How to Train AI to Create Great Content</title>
       <guid isPermaLink="false">content-at-scale-how-to-train-ai-to-create-great-content-20260620172923</guid>
       <pubDate>Sat, 20 Jun 2026 17:29:23 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/content-at-scale-how-to-train-ai-to-create-great-content.mp3" type="audio/mpeg" length="3778992"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/content-at-scale-how-to-train-ai-to-create-great-content.mp3" type="audio/mpeg" length="3778992" />
       <description>Original: https://www.socialmediaexaminer.com/content-at-scale-how-to-train-ai-to-create-great-content/</description>
       <itunes:summary>Original: https://www.socialmediaexaminer.com/content-at-scale-how-to-train-ai-to-create-great-content/</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
@@ -407,7 +407,7 @@
       <title>Using Claude Projects to Develop Quality Content</title>
       <guid isPermaLink="false">using-claude-projects-to-develop-quality-content-20260619213347</guid>
       <pubDate>Fri, 19 Jun 2026 21:33:47 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/using-claude-projects-to-develop-quality-content.mp3" type="audio/mpeg" length="31916540"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/using-claude-projects-to-develop-quality-content.mp3" type="audio/mpeg" length="31916540" />
       <description>Original: https://youtu.be/ye27dFss9SE  •  AI Explored walkthrough (46:55) on using Claude Projects to develop quality content.</description>
       <itunes:summary>Original: https://youtu.be/ye27dFss9SE  •  AI Explored walkthrough (46:55) on using Claude Projects to develop quality content.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
@@ -416,7 +416,7 @@
       <title>Email Segmentation: Getting More Sales With Less Traffic</title>
       <guid isPermaLink="false">email-segmentation-getting-more-sales-with-less-traffic-20260619213124</guid>
       <pubDate>Fri, 19 Jun 2026 21:31:24 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/email-segmentation-getting-more-sales-with-less-traffic.mp3" type="audio/mpeg" length="35405516"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/email-segmentation-getting-more-sales-with-less-traffic.mp3" type="audio/mpeg" length="35405516" />
       <description>Original: https://youtu.be/BZEt9HIiFpE  •  Social Media Examiner interview (44:55) on using email segmentation to drive more sales from existing traffic.</description>
       <itunes:summary>Original: https://youtu.be/BZEt9HIiFpE  •  Social Media Examiner interview (44:55) on using email segmentation to drive more sales from existing traffic.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
@@ -425,16 +425,16 @@
       <title>The Agentic Engineer Workflow You Need In 2026</title>
       <guid isPermaLink="false">the-agentic-engineer-workflow-you-need-in-2026-20260603004706</guid>
       <pubDate>Wed, 03 Jun 2026 00:47:06 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/the-agentic-engineer-workflow-you-need-in-2026.mp3" type="audio/mpeg" length="24121076"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/the-agentic-engineer-workflow-you-need-in-2026.mp3" type="audio/mpeg" length="24121076" />
       <description>Original: https://youtu.be/ElYxdpYi4U0  •  By Zen van Riel. Real audio from YouTube.</description>
       <itunes:summary>Original: https://youtu.be/ElYxdpYi4U0  •  By Zen van Riel. Real audio from YouTube.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>The Digital Sovereign — May 28, 2026: FBI Labels AI Critics, Altman&#x27;s Reversal, and the DuckDuckGo Surge</title>
+      <title>The Digital Sovereign — May 28, 2026: FBI Labels AI Critics, Altman's Reversal, and the DuckDuckGo Surge</title>
       <guid isPermaLink="false">the-digital-sovereign-may-28-2026-fbi-labels-ai-critics-altm-20260602222643</guid>
       <pubDate>Tue, 02 Jun 2026 22:26:43 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/the-digital-sovereign-may-28-2026-fbi-labels-ai-critics-altm.mp3" type="audio/mpeg" length="2167920"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/the-digital-sovereign-may-28-2026-fbi-labels-ai-critics-altm.mp3" type="audio/mpeg" length="2167920" />
       <description>Original: pasted newsletter — The Digital Sovereign, May 28, 2026</description>
       <itunes:summary>Original: pasted newsletter — The Digital Sovereign, May 28, 2026</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
@@ -443,7 +443,7 @@
       <title>5 Tips for a Powerhouse YouTube Intro</title>
       <guid isPermaLink="false">5-tips-for-a-powerhouse-youtube-intro-20260602222454</guid>
       <pubDate>Tue, 02 Jun 2026 22:24:54 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/5-tips-for-a-powerhouse-youtube-intro.mp3" type="audio/mpeg" length="819792"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/5-tips-for-a-powerhouse-youtube-intro.mp3" type="audio/mpeg" length="819792" />
       <description>Original: pasted email — Think Media (Nolan Molt)</description>
       <itunes:summary>Original: pasted email — Think Media (Nolan Molt)</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
@@ -452,16 +452,16 @@
       <title>Claude for Small Business: Planning Payroll with Confidence</title>
       <guid isPermaLink="false">claude-for-small-business-planning-payroll-with-confidence-20260601210323</guid>
       <pubDate>Mon, 01 Jun 2026 21:03:23 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/claude-for-small-business-planning-payroll-with-confidence.mp3" type="audio/mpeg" length="1771772"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/claude-for-small-business-planning-payroll-with-confidence.mp3" type="audio/mpeg" length="1771772" />
       <description>Original: https://www.youtube.com/watch?v=lserpKbUDjc  •  Original YouTube audio (Claude channel), not TTS-narrated.</description>
       <itunes:summary>Original: https://www.youtube.com/watch?v=lserpKbUDjc  •  Original YouTube audio (Claude channel), not TTS-narrated.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>You Can&#x27;t Beat AI</title>
+      <title>You Can't Beat AI</title>
       <guid isPermaLink="false">you-can-t-beat-ai-20260601130216</guid>
       <pubDate>Mon, 01 Jun 2026 13:02:16 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/you-can-t-beat-ai.mp3" type="audio/mpeg" length="4212288"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/you-can-t-beat-ai.mp3" type="audio/mpeg" length="4212288" />
       <description>Pasted from your Ruben Hassid newsletter; no link captured. The hands-on Claude walkthrough (prompts and screenshots) was skipped in this reading.</description>
       <itunes:summary>Pasted from your Ruben Hassid newsletter; no link captured. The hands-on Claude walkthrough (prompts and screenshots) was skipped in this reading.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
@@ -470,16 +470,16 @@
       <title>This Is Usually the Shortest Line at the Airport, According to Science</title>
       <guid isPermaLink="false">this-is-usually-the-shortest-line-at-the-airport-according-t-20260530201850</guid>
       <pubDate>Sat, 30 May 2026 20:18:50 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/this-is-usually-the-shortest-line-at-the-airport-according-t.mp3" type="audio/mpeg" length="2494800"/>
-      <description>Pasted text from Reader&#x27;s Digest; no original link captured.</description>
-      <itunes:summary>Pasted text from Reader&#x27;s Digest; no original link captured.</itunes:summary>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/this-is-usually-the-shortest-line-at-the-airport-according-t.mp3" type="audio/mpeg" length="2494800" />
+      <description>Pasted text from Reader's Digest; no original link captured.</description>
+      <itunes:summary>Pasted text from Reader's Digest; no original link captured.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <title>First Say It Straight, Then Say It Great</title>
       <guid isPermaLink="false">first-say-it-straight-then-say-it-great-20260530201432</guid>
       <pubDate>Sat, 30 May 2026 20:14:32 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/first-say-it-straight-then-say-it-great.mp3" type="audio/mpeg" length="753408"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/first-say-it-straight-then-say-it-great.mp3" type="audio/mpeg" length="753408" />
       <description>Original: https://www.linkedin.com/posts/shlomogenchin_first-say-it-straight-then-say-it-great-activity-7465694806611111936-u6Zo</description>
       <itunes:summary>Original: https://www.linkedin.com/posts/shlomogenchin_first-say-it-straight-then-say-it-great-activity-7465694806611111936-u6Zo</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
@@ -488,7 +488,7 @@
       <title>Developers Are Drowning in AI PRs</title>
       <guid isPermaLink="false">developers-are-drowning-in-ai-prs-20260530201345</guid>
       <pubDate>Sat, 30 May 2026 20:13:45 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/developers-are-drowning-in-ai-prs.mp3" type="audio/mpeg" length="3957264"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/developers-are-drowning-in-ai-prs.mp3" type="audio/mpeg" length="3957264" />
       <description>Original: https://www.builder.io/blog/developers-drowning-in-ai-prs</description>
       <itunes:summary>Original: https://www.builder.io/blog/developers-drowning-in-ai-prs</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
@@ -497,7 +497,7 @@
       <title>24 Tips for Giving S-Tier Demos</title>
       <guid isPermaLink="false">24-tips-for-giving-s-tier-demos-20260530201054</guid>
       <pubDate>Sat, 30 May 2026 20:10:54 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/24-tips-for-giving-s-tier-demos.mp3" type="audio/mpeg" length="2625984"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/24-tips-for-giving-s-tier-demos.mp3" type="audio/mpeg" length="2625984" />
       <description>Original: https://newsletter.posthog.com/p/how-to-demo</description>
       <itunes:summary>Original: https://newsletter.posthog.com/p/how-to-demo</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
@@ -506,7 +506,7 @@
       <title>Do You Have Search Market Fit for AEO and SEO?</title>
       <guid isPermaLink="false">do-you-have-search-market-fit-for-aeo-and-seo-20260530200906</guid>
       <pubDate>Sat, 30 May 2026 20:09:06 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/do-you-have-search-market-fit-for-aeo-and-seo.mp3" type="audio/mpeg" length="4030848"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/do-you-have-search-market-fit-for-aeo-and-seo.mp3" type="audio/mpeg" length="4030848" />
       <description>Original: https://www.productledseo.com/p/do-you-have-search-market-fit-for-f65</description>
       <itunes:summary>Original: https://www.productledseo.com/p/do-you-have-search-market-fit-for-f65</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
@@ -515,7 +515,7 @@
       <title>Introducing Dynamic Workflows in Claude Code</title>
       <guid isPermaLink="false">introducing-dynamic-workflows-in-claude-code-20260530200641</guid>
       <pubDate>Sat, 30 May 2026 20:06:41 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/introducing-dynamic-workflows-in-claude-code.mp3" type="audio/mpeg" length="1990944"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/introducing-dynamic-workflows-in-claude-code.mp3" type="audio/mpeg" length="1990944" />
       <description>Original: https://claude.com/blog/introducing-dynamic-workflows-in-claude-code</description>
       <itunes:summary>Original: https://claude.com/blog/introducing-dynamic-workflows-in-claude-code</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
@@ -524,10 +524,10 @@
       <title>Your reading feed is live</title>
       <guid isPermaLink="false">your-reading-feed-is-live-20260530195208</guid>
       <pubDate>Sat, 30 May 2026 19:52:08 +0000</pubDate>
-      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/your-reading-feed-is-live.mp3" type="audio/mpeg" length="159120"/>
+      <enclosure url="https://joy-deffinbaugh.github.io/reading-feed/your-reading-feed-is-live.mp3" type="audio/mpeg" length="159120" />
       <description>Welcome episode.</description>
       <itunes:summary>Welcome episode.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
     </item>
-  </channel>
+  <item><title>Where AI agents get stuck on your site</title><guid isPermaLink="false">where-ai-agents-get-stuck-on-your-site-20260714175453</guid><pubDate>Tue, 14 Jul 2026 17:54:53 +0000</pubDate><enclosure url="https://joy-deffinbaugh.github.io/reading-feed/where-ai-agents-get-stuck-on-your-site.mp3" type="audio/mpeg" length="2677104" /><description>Original: https://www.growth-memo.com/p/where-ai-agents-get-stuck-on-your</description><itunes:summary>Original: https://www.growth-memo.com/p/where-ai-agents-get-stuck-on-your</itunes:summary><itunes:explicit>false</itunes:explicit></item><item><title>Growth Intelligence Brief #21</title><guid isPermaLink="false">growth-intelligence-brief-21-20260714180616</guid><pubDate>Tue, 14 Jul 2026 18:06:16 +0000</pubDate><enclosure url="https://joy-deffinbaugh.github.io/reading-feed/growth-intelligence-brief-21.mp3" type="audio/mpeg" length="5079312" /><description>Original: https://www.growth-memo.com/p/growth-intelligence-brief-21</description><itunes:summary>Original: https://www.growth-memo.com/p/growth-intelligence-brief-21</itunes:summary><itunes:explicit>false</itunes:explicit></item><item><title>Why most original data never gets cited</title><guid isPermaLink="false">why-most-original-data-never-gets-cited-20260714181723</guid><pubDate>Tue, 14 Jul 2026 18:17:23 +0000</pubDate><enclosure url="https://joy-deffinbaugh.github.io/reading-feed/why-most-original-data-never-gets-cited.mp3" type="audio/mpeg" length="4093488" /><description>Original: https://www.growth-memo.com/p/why-most-original-data-never-gets</description><itunes:summary>Original: https://www.growth-memo.com/p/why-most-original-data-never-gets</itunes:summary><itunes:explicit>false</itunes:explicit></item><item><title>Stop trying to replace people with AI</title><guid isPermaLink="false">stop-trying-to-replace-people-with-ai-20260714182413</guid><pubDate>Tue, 14 Jul 2026 18:24:13 +0000</pubDate><enclosure url="https://joy-deffinbaugh.github.io/reading-feed/stop-trying-to-replace-people-with-ai.mp3" type="audio/mpeg" length="3188160" /><description>Original: https://www.growth-memo.com/p/stop-trying-to-replace-people-with</description><itunes:summary>Original: https://www.growth-memo.com/p/stop-trying-to-replace-people-with</itunes:summary><itunes:explicit>false</itunes:explicit></item><item><title>Topics matter for third-party authority signals</title><guid isPermaLink="false">topics-matter-for-third-party-authority-signals-20260714183037</guid><pubDate>Tue, 14 Jul 2026 18:30:37 +0000</pubDate><enclosure url="https://joy-deffinbaugh.github.io/reading-feed/topics-matter-for-third-party-authority-signals.mp3" type="audio/mpeg" length="3447504" /><description>Original: https://www.growth-memo.com/p/topics-matter-for-third-party-authority</description><itunes:summary>Original: https://www.growth-memo.com/p/topics-matter-for-third-party-authority</itunes:summary><itunes:explicit>false</itunes:explicit></item><item><title>Growth Intelligence Brief #20</title><guid isPermaLink="false">growth-intelligence-brief-20-20260714183722</guid><pubDate>Tue, 14 Jul 2026 18:37:22 +0000</pubDate><enclosure url="https://joy-deffinbaugh.github.io/reading-feed/growth-intelligence-brief-20.mp3" type="audio/mpeg" length="2687328" /><description>Original: https://www.growth-memo.com/p/growth-intelligence-brief-20</description><itunes:summary>Original: https://www.growth-memo.com/p/growth-intelligence-brief-20</itunes:summary><itunes:explicit>false</itunes:explicit></item><item><title>Make your prompt tracking more accurate this week</title><guid isPermaLink="false">make-your-prompt-tracking-more-accurate-this-week-20260714184447</guid><pubDate>Tue, 14 Jul 2026 18:44:47 +0000</pubDate><enclosure url="https://joy-deffinbaugh.github.io/reading-feed/make-your-prompt-tracking-more-accurate-this-week.mp3" type="audio/mpeg" length="3569472" /><description>Original: https://www.growth-memo.com/p/how-to-make-prompt-tracking-much</description><itunes:summary>Original: https://www.growth-memo.com/p/how-to-make-prompt-tracking-much</itunes:summary><itunes:explicit>false</itunes:explicit></item><item><title>What to do now that AIOs turned search into reading sessions</title><guid isPermaLink="false">what-to-do-now-that-aios-turned-search-into-reading-sessions-20260714185356</guid><pubDate>Tue, 14 Jul 2026 18:53:56 +0000</pubDate><enclosure url="https://joy-deffinbaugh.github.io/reading-feed/what-to-do-now-that-aios-turned-search-into-reading-sessions.mp3" type="audio/mpeg" length="3840624" /><description>Original: https://www.growth-memo.com/p/traditional-intents-can-no-longer</description><itunes:summary>Original: https://www.growth-memo.com/p/traditional-intents-can-no-longer</itunes:summary><itunes:explicit>false</itunes:explicit></item><item><title>Users behave differently in AI Overviews vs. AI Mode</title><guid isPermaLink="false">users-behave-differently-in-ai-overviews-vs-ai-mode-20260714190145</guid><pubDate>Tue, 14 Jul 2026 19:01:45 +0000</pubDate><enclosure url="https://joy-deffinbaugh.github.io/reading-feed/users-behave-differently-in-ai-overviews-vs-ai-mode.mp3" type="audio/mpeg" length="3078288" /><description>Original: https://www.growth-memo.com/p/users-behave-differently-in-ai-overviews</description><itunes:summary>Original: https://www.growth-memo.com/p/users-behave-differently-in-ai-overviews</itunes:summary><itunes:explicit>false</itunes:explicit></item><item><title>Reasoning lift: What happens to AI visibility when AI thinks harder</title><guid isPermaLink="false">reasoning-lift-what-happens-to-ai-visibility-when-ai-thinks-harder-20260714190940</guid><pubDate>Tue, 14 Jul 2026 19:09:40 +0000</pubDate><enclosure url="https://joy-deffinbaugh.github.io/reading-feed/reasoning-lift-what-happens-to-ai-visibility-when-ai-thinks-harder.mp3" type="audio/mpeg" length="4094784" /><description>Original: https://www.growth-memo.com/p/reasoning-lift-what-happens-to-ai</description><itunes:summary>Original: https://www.growth-memo.com/p/reasoning-lift-what-happens-to-ai</itunes:summary><itunes:explicit>false</itunes:explicit></item><item><title>Growth Intelligence Brief #18</title><guid isPermaLink="false">growth-intelligence-brief-18-20260714191257</guid><pubDate>Tue, 14 Jul 2026 19:12:57 +0000</pubDate><enclosure url="https://joy-deffinbaugh.github.io/reading-feed/growth-intelligence-brief-18.mp3" type="audio/mpeg" length="1523520" /><description>Original: https://www.growth-memo.com/p/growth-intelligence-brief-18</description><itunes:summary>Original: https://www.growth-memo.com/p/growth-intelligence-brief-18</itunes:summary><itunes:explicit>false</itunes:explicit></item><item><title>Growth Intelligence Brief #16</title><guid isPermaLink="false">growth-intelligence-brief-16-20260714191541</guid><pubDate>Tue, 14 Jul 2026 19:15:41 +0000</pubDate><enclosure url="https://joy-deffinbaugh.github.io/reading-feed/growth-intelligence-brief-16.mp3" type="audio/mpeg" length="1794672" /><description>Original: https://www.growth-memo.com/p/growth-intelligence-brief-16</description><itunes:summary>Original: https://www.growth-memo.com/p/growth-intelligence-brief-16</itunes:summary><itunes:explicit>false</itunes:explicit></item><item><title>Growth Intelligence Brief #15</title><guid isPermaLink="false">growth-intelligence-brief-15-20260714191844</guid><pubDate>Tue, 14 Jul 2026 19:18:44 +0000</pubDate><enclosure url="https://joy-deffinbaugh.github.io/reading-feed/growth-intelligence-brief-15.mp3" type="audio/mpeg" length="1707120" /><description>Original: https://www.growth-memo.com/p/growth-intelligence-brief-15</description><itunes:summary>Original: https://www.growth-memo.com/p/growth-intelligence-brief-15</itunes:summary><itunes:explicit>false</itunes:explicit></item></channel>
 </rss>
